@@ -1,0 +1,29 @@
+body
+{
+  background-color:#e4f9f5;
+}
+hr:hover
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%
+}
+h1
+{
+  color: #30e3ca;
+  text-shadow: 2px 2px red;
+}
+h3
+{
+  color: #30e3ca;
+}
+
+.ishan:hover
+{
+  background-color: gold;
+}
+img{
+  border-radius: 40%
+}
